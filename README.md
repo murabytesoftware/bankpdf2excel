@@ -16,6 +16,6 @@ Tested with synthetic bank statement layouts. If your bank's PDF format does not
 
 ## Links
 
-- Website: https://murabyte.pages.dev/en/bankpdf2excel
+- Website: https://murabyte.netlify.app/en/bankpdf2excel
 - Support: murabyte.sales@gmail.com or https://t.me/murabytesoft
-- Privacy: https://murabyte.pages.dev/en/privacy
+- Privacy: https://murabyte.netlify.app/en/privacy
