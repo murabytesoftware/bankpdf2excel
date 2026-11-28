@@ -15,7 +15,7 @@ Get the latest Windows installer from [Releases](../../releases/latest).
 
 - Windows 10/11, 64-bit
 - Free 15-day trial, exports limited to 10 transactions per export - try your own statements first.
-- A license removes both limits: $149/year per PC, sold via [Gumroad](https://murabyte.gumroad.com/l/bankpdf2excel).
+- A license removes both limits: $99, one-time payment, one key per PC, sold via [Gumroad](https://murabyte.gumroad.com/l/bankpdf2excel).
 
 ## Review before importing
 
